@@ -1,0 +1,20 @@
+.app-container {
+  height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-title {
+  color: blue;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.slider-container {
+  height: 80vh;
+  width: 80vw;
+}

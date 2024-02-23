@@ -1,0 +1,21 @@
+.planet-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.planet-image {
+  height: 200px;
+  width: 200px;
+}
+.heading {
+  font-size: 17px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #f8fafc;
+  text-align: center;
+}
+.description {
+  font-size: 20px;
+  color: #f1f5f9;
+}
